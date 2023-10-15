@@ -1,0 +1,12 @@
+{
+  "name": "nueva-carpeta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "listadetareas.js",
+  "scripts": {
+    "test": "listadetareas.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
